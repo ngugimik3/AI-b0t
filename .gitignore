@@ -3,3 +3,6 @@
 __pycache__
 .DS_Store
 .data
+.Pipfile
+.Pipfile.lock
+.requirements.txt
